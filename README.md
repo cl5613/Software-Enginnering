@@ -1,2 +1,2 @@
 # Software-Enginnering
-This is project made in software engineering class
+This is WebChecker project made in software engineering class
